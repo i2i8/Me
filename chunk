@@ -1,0 +1,4 @@
+cp -avx ./frontend ./api
+cp -avx ./environments/dev/frontend ./environments/dev/api
+cp -avx ./environments/prod/frontend ./environments/prod/api
+cp -avx ./wechat/environments/index.php ./environments/
